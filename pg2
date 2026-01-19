@@ -1,0 +1,33 @@
+\documentclass{article}
+
+% Define title and author
+\title{ABSTRACT}
+\date{} % Remove date
+
+\begin{document}
+\maketitle
+
+Wireless charging is a convenient method of charging Electric Vehicles (EVs). Its 
+application
+has been widely studied for electric cars but so far there have been limited 
+experiments for electric bicycles
+(e-bikes). This paper addresses the design process and implementation details related 
+to a wireless charger for
+a specific e-bike. Some issues such as the position of the secondary coil or the control 
+algorithm prove to be
+crucial to the performance of the wireless transfer. Concerning the placement of the 
+secondary coil, the paper
+proposes and validates a theoretical model to quantify the effects of the surrounding 
+interfering materials.
+A CC-CV (Constant Current - Constant Voltage) control algorithm has been 
+implemented to validate the
+theoretical results in these two charging phases. The control, the coils and the 
+compensation networks have
+been designed to be simple and robust. The theoretical model, the charger and its 
+control have proven to be
+effective in a real 84-W e-bike.
+
+\subsection*{Keywords}
+Keywords:Control, coil position, electric bicycle, wireless charger.
+
+\end{document}
