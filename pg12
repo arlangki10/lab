@@ -1,0 +1,25 @@
+\documentclass{report}
+
+\title{Simple Report Example}
+\author{John Doe}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\chapter{Introduction}
+This is the introduction chapter of the report. Here you describe the purpose and scope 
+of the report.
+
+\chapter{Background}
+This chapter provides background information and context for the report's subject.
+
+\chapter{Methodology}
+This chapter outlines the methods and approaches used in the report.
+
+\chapter{Conclusion}
+This chapter summarizes the findings and conclusions of the report.
+
+\end{document}
