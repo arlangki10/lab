@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{array}
+
+\begin{document}
+
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{S.No} & \textbf{USN} & \textbf{Student Name} &
+\multicolumn{3}{c|}{\textbf{Marks}} \\ \cline{4-6}
+& & & \textbf{Subject1} & \textbf{Subject2} & \textbf{Subject3} \\ \hline
+1 & 4SH22CS001 & AKASH & 89 & 60 & 90 \\ \hline
+2 & 4SH22CS002 & ANANYA & 78 & 45 & 98 \\ \hline
+3 & 4SH22CS003 & AMOGH & 67 & 55 & 59 \\ \hline
+\end{tabular}
+
+\end{document}
