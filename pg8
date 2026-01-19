@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{amsthm}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+
+\begin{document}
+
+\section*{Short Example}
+
+\begin{theorem}
+(Pythagoras' Theorem) In a right-angled triangle, $a^2 + b^2 = c^2$.
+\end{theorem}
+
+\begin{definition}
+A \textit{right-angled triangle} has one $90^\circ$ angle.
+\end{definition}
+
+\begin{lemma}
+The hypotenuse is the longest side in a right-angled triangle.
+\end{lemma}
+
+\begin{corollary}
+If a triangle is not right-angled, $a^2 + b^2 \neq c^2$.
+\end{corollary}
+
+\end{document}
