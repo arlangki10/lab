@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+
+\begin{document}
+
+\vspace{1cm}
+\begin{center}
+\textbf{SHREE DEVI INSTITUTE OF TECHNOLOGY} \\
+(Affiliated To Visvesvaraya Technological University, Belagavi) \\
+MANGALURU-574142\\
+\textbf{DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}
+\end{center}
+
+\begin{center}
+\includegraphics[width=0.3\textwidth]{example-image} % Add your image here
+\end{center}
+
+\vspace{1cm}
+\begin{center}
+\textbf{CERTIFICATE}
+\end{center}
+
+\vspace{0.5cm}
+\begin{center}
+\begin{minipage}{0.9\textwidth}
+\justifying
+Certified that the project work entitled \textbf{TECHNICAL WRITING USING 
+LATEX}presented by \textbf{Ms/Mr}, USN \textbf{4SH22CS001}, a bonafide 
+student of \textbf{Shree Devi Institute of Technology} in partial fulfillment for the 
+academic requirement of IV Semester Bachelor of Engineering in Computer Science 
+and Engineering of the Visvesvaraya Technological University, Belagavi during the 
+year 2024. The technical seminar report has been approved as it satisfies the academic 
+requirements with respect to technical seminar work prescribed for the Bachelor of 
+Engineering under the above said university.
+\end{minipage}
+\end{center}
+
+\vspace{1cm}
+\begin{center}
+\begin{minipage}[t]{0.45\textwidth}
+\centering
+\hrule
+\vspace{0.2cm}
+Signature of the Guide \\
+(guide name)
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+\centering
+\hrule
+\vspace{0.2cm}
+Signature of the HOD \\
+(name of HOD)
+\end{minipage}
+\end{center}
+
+\end{document}
