@@ -1,0 +1,35 @@
+\documentclass{article}
+% Packages for formatting
+\usepackage{fancyhdr} % For custom headers and footers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{SHREE DEVI INSTITUTE OF TECHNOLOGY}
+\fancyfoot[R]{CSE}
+\renewcommand{\headrulewidth}{3pt}
+\renewcommand{\footrulewidth}{3pt}
+\rfoot{1}
+\lfoot{SDIT}
+
+\begin{document}
+\section{INTODUCTION}
+Welcome to Shree Devi Institute of Technology
+Shree Devi Institute of Technology, Mangalore, is famed destination for students 
+aspiring to pursue Engineering (BE, M.Tech.), Management (MBA), Computer 
+studies (MCA) and Research (Ph. D.). Affiliated to VTU Belgaum and recognized by 
+AICTE New Delhi, SDIT provides excellent education in each of the fields.
+
+\section{ABOUT US}
+Our Institute’s aim is to provide students with a rich and propitious learning 
+environment so that they acquire the knowledge and skills needed for succeeding in 
+their professional as well as personal lives. A team of dedicated faculty, a brilliant 
+student community, excellent technical and support staff and an effective 
+administration have all contributed to the preeminent status for Shree Devi Institute of 
+Technology, Kenjar Mangalore.
+
+SDIT offers opportunities to students to pursue Management (MBA), Computer 
+studies (MCA) , Engineering (BE, M.Tech.) and Research (Ph. D.) in an ambience of 
+natural beauty. The campus is set amidst the vibrant surroundings of suburban 
+Mangalore. The modern buildings house excellent state-ofthe- art laboratories and 
+instructional facilities relevant to the course of study. Well-qualified staff augments 
+infrastructural resources for the overall benefit of the students.
+\end{document}
