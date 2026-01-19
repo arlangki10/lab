@@ -1,0 +1,30 @@
+\documentclass{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{cite}
+
+% Document
+\begin{document}
+
+\title{A Sample Document with Citations}
+\author{Author Name}
+\date{\today}
+\maketitle
+
+\section{Introduction}
+This document provides a demonstration of how to include multiple citations within 
+paragraphs. Research in various fields has shown significant findings, such as the impact of 
+social networks on human behavior \cite{ref1, ref2}, the development of machine learning 
+algorithms \cite{ref3, ref4, ref5}, and advancements in medical technology \cite{ref6, ref7}.
+
+\section{Discussion}
+Further studies have explored the environmental effects of industrialization \cite{ref8, ref9} 
+and the role of policy in mitigating climate change \cite{ref10, ref11}. These studies 
+underscore the importance of interdisciplinary approaches in addressing global challenges.
+
+\section{References}
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
