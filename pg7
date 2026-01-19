@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+The quadratic formula:
+\begin{align*}
+x &= \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \\
+ &= \frac{-2 \pm \sqrt{2^2 - 4(1)(-8)}}{2 \cdot 1} \\
+ &= \frac{-2 \pm \sqrt{4 + 32}}{2}
+\end{align*}
+
+Another mathematical expression:
+\begin{align*}
+\varphi^{\lambda}_{\sigma}A_{t} &= \sum_{\pi \in C_{t}} \operatorname{sgn}(\pi)
+\varphi^{\lambda}_{\sigma} \varphi_{\pi}^{\lambda} \\
+ &= \sum_{\tau \in C_{\sigma t}} \operatorname{sgn}(\sigma^{-1} \tau \sigma)
+\varphi^{\lambda}_{\sigma} \varphi_{\sigma^{-1} \tau \sigma}^{\lambda} \\
+ &= A_{\sigma t} \varphi^{\lambda}_{\sigma}
+\end{align*}
+
+\end{document}
