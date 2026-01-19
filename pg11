@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\begin{document}
+
+\begin{algorithm}
+\caption{Simple Algorithm using \texttt{algorithmic}}
+\label{alg:algorithmic_simple}
+\begin{algorithmic}
+\STATE Initialize variables
+\FOR{each item in the list}
+\IF{condition is met}
+\STATE Perform action A
+\ELSE
+\STATE Perform action B
+\ENDIF
+\ENDFOR
+\STATE Return result
+\end{algorithmic}
+\end{algorithm}
+
+\end{document}
